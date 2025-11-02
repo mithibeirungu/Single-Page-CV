@@ -18,3 +18,4 @@ To run this project simply download the contents as a zip, extract it and open t
 
 ## Conclusion
 I hope that this will be a great starting point for everyone and I inted to also make this readme more detailed to keep people posted and make it easy for them to learn
+the project's sharable link is [https://roadmap.sh/projects/single-page-cv/solutions?u=69072cd5b0418a041e374eb8]
